@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Loris
 
-- 🔭 Web3 Freelancing
+- 🔭 Web3 Dev
+- 👯 Full-Stack Entrepreneur
 - 🌱 Learning 70s programming at 42Lisboa
-- 👯 Hacking at Nearcoin & ETHGlobal / Always ready to build new ideas
 - 💬 Reach me at: loris.penelon@outlook.com
